@@ -1,3 +1,4 @@
+const Dotenv = require('dotenv-webpack')
 const ESLintPlugin = require('eslint-webpack-plugin')
 const path = require('path')
 
@@ -36,6 +37,7 @@ module.exports = {
     filename: 'bundle.js'
   },
   plugins: [
+    new Dotenv(),
     new ESLintPlugin()
   ],
   devtool: 'source-map'

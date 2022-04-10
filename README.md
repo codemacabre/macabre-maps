@@ -1,24 +1,15 @@
-# CodeMacabre React Config
+# Macabre Maps
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev/)
 [![License: Hippocratic 2.1](https://img.shields.io/badge/License-Hippocratic_2.1-lightgrey.svg)](https://firstdonoharm.dev)
 
-A relatively minimal React boilerplate configuration. This uses my (current) preferred toolset so is highly opinionated and entirely subject to change.
-
-## Details
-Technologies used and supported in this stack are:
-+ React 17
-+ Webpack 5
-+ Babel
-+ Jest
-+ Sass
-+ ESLint + StandardJS
+A React app for mapping macabre locations.
 
 ## Usage
 1. Clone this repository using the shell command,
    ```sh
-   git clone https://github.com/codemacabre/default-config.git
+   git clone https://github.com/codemacabre/macabre-maps.git
    ```
 2. In the cloned directory, run the following command to install packages and dependencies,
    ```sh

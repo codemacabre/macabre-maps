@@ -1,4 +1,4 @@
-CodeMacabre React Config Copyright 2021 CodeMacabre / Myles Lewando (“Licensor”)
+Macabre Maps Copyright 2021 CodeMacabre / Myles Lewando (“Licensor”)
 
 Hippocratic License Version Number: 2.1.
 
